@@ -17,5 +17,4 @@ samples, guidance on mobile development, and a full API reference.
 
 ## Screenshots
 
-![Alt text](/travel_app/assets/1.png?raw=true)
-![Alt text](/travel_app/assets/2.png?raw=true)
+<img src="/travel_app/assets/1.png?raw=true" width="250"> <img src="/travel_app/assets/2.png?raw=true" width="250">
