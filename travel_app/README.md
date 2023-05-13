@@ -15,6 +15,13 @@ For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
 
+## APK File
+
+For apk file, [click here](https://github.com/Dushant-Bansal/flutter_projects/releases/download/v1.0.0/app-release.apk)
+
+
 ## Screenshots
 
 <img src="/travel_app/assets/1.png?raw=true" width="250"> <img src="/travel_app/assets/2.png?raw=true" width="250">
+
+
